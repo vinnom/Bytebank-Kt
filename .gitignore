@@ -1,0 +1,4 @@
+# ignore intellij filess
+.idea/
+bytebank.iml
+out
