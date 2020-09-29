@@ -1,3 +1,7 @@
+package kotlin1.funcaoTeste
+
+import kotlin1.Conta
+
 fun testaComportamentosConta() {
    val c1 = Conta(titular = "teste1", numero = 1)
    val c2 = Conta(titular = "teste2", numero = 2)
